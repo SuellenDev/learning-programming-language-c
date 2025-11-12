@@ -9,7 +9,7 @@
 # 🥋 Diário de Treino em C
 
 Este repositório é o reflexo da minha **trajetória em Sistemas de Informação**, especialmente na **batalha com a linguagem C**.  
-Já **reprovei três vezes** nessa matéria, mas como **Rock Lee**, não deixo que isso me defina — deixo que isso me motive.  
+Já **reprovei duas vezes** nessa matéria, mas como **Rock Lee**, não deixo que isso me defina.  
 
 > 💬 *"Mesmo sem talento, posso superar qualquer um com trabalho duro."* — Rock Lee
 
@@ -17,7 +17,7 @@ Já **reprovei três vezes** nessa matéria, mas como **Rock Lee**, não deixo q
 
 ## 🎯 Objetivo
 
-Construir uma base sólida em **lógica e linguagem C**, estudando e praticando **todos os dias**.  
+Construir uma base sólida em **lógica e linguagem C**, estudando e praticando **o máximo de dias possíveis**.  
 Cada código aqui representa um passo no meu processo de evolução.
 
 - 📘 Aprender fundamentos de programação  
@@ -34,7 +34,7 @@ Cada código aqui representa um passo no meu processo de evolução.
 Este repositório é meu **campo de treino**.  
 Cada bug corrigido, cada erro superado, cada linha entendida é uma vitória pessoal.  
 
-Não busco atalhos, busco **crescimento**.
+Não busco atalhos, busco **crescimento de verdade esse ano**.
 
 ---
 
